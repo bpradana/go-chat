@@ -1,4 +1,4 @@
-# Go Private Key Infrastructure
+# Go Chat
 ## Introduction
 This is a simple chat app built using Go.
 
